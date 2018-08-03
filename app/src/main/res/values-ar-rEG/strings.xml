@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity Translations -->
+    <string name="app_name">أبايز</string>
+    <string name="bsignup">تسجيل</string>
+    <string name="blogin">دخول</string>
+    <string name="main_txt1">هل لديك بالفعل حساب ؟</string>
+    <string name="main_txt2">بالتسجيل فأنك توافق على</string>
+    <string name="main_txt3">شروط الاستخدام و سياسة الخصوصية</string>
+    <!-- LogIn Activity Translations -->
+    <string name="forgotid">نسيت الأى دى ؟</string>
+    <string name="id">الاى دى</string>
+    <string name="pass">كلمة السر</string>
+    <string name="forgotpass">نسيت كلمة السر ؟</string>
+    <!-- SignUp Activity Translations -->
+    <string name="fullname">الاسم كامل</string>
+    <string name="email">البريد الإلكترونى</string>
+    <string name="phone">الهاتف</string>
+    <string name="birthday">تاريخ الميلاد</string>
+    <string name="country">الدولة</string>
+    <string name="city">المدينة</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="websites">الموقع الإلكترونى</string>
+    <string name="agreeterm">أوافق على الشروط و الأحكام</string>
+    <string name="done">تم</string>
+</resources>

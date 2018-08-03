@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity Translations -->
+    <string name="app_name">Abbaize</string>
+    <string name="bsignup">Sign Up</string>
+    <string name="blogin">Log In</string>
+    <string name="main_txt1">Already have a Path account ?</string>
+    <string name="main_txt2">By using Path, you agree to Path\'s</string>
+    <string name="main_txt3">Terms of Use and Privacy Policy</string>
+    <!-- LogIn Activity Translations -->
+    <string name="id">ID</string>
+    <string name="forgotid">Forgot ID ?</string>
+    <string name="pass">Password</string>
+    <string name="forgotpass">Forgot Pass ?</string>
+    <!-- SignUp Activity Translations -->
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="birthday">Birthday</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="websites">Websites</string>
+    <string name="agreeterm">I agree to the Terms and Conditions</string>
+    <string name="done">Done</string>
+</resources>
